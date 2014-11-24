@@ -31,7 +31,7 @@ Scoring: 100 points for writing a script that is within a +/- 5 second runtime o
 It's Uber for Piggybacks
 ------------------------
 
-Write a script (Python, bash, whatever) that generates a random startup name using two words from the [Urban Dictionary's API](http://api.urbandictionary.com/v0/random)
+Write a script (Python, bash, whatever) that generates a random startup name using two words from the [Urban Dictionary's API](http://api.urbandictionary.com/v0/random). A bit of creativity here will help!
 
 You'll need this for part 2...
 
@@ -42,9 +42,7 @@ It's Piggybacks for Uber
 ------------------------
 
 Use your wonderful script to come up with a really dumb or useless startup name. Create and present a three slide deck to get funding for your hip new startup. Points 
-will be given for funny names, pretty slides and presentations that'd knock the money right out of Lord Shugar's hands!
-
-If you can make that JSON GET more specific that'd help too...
+will be given for funny names, pretty slides and presentations that'd knock the money right out of Lord Sugar's hands!
 
 Scoring: Up to 100 points at the judges' discretion.
 
@@ -100,7 +98,7 @@ Here's a list of data that may or may not be available on the Bloomberg Terminal
 Scoring: 10 points for every right answer. -10 for every wrong answer.
 
 
-Import import.Import(import)
+Import import.io
 ----------------------------
 
 Create a free import.io account and get creative! We want the best yet most useles API possible!
@@ -128,7 +126,7 @@ Scoring: 200 points for perfectly tuned. 10 points less for every 10 Hz away.
 WAT.
 ----
 
-Languages, and especially types can do the wirdest things; Find something that makes people say "wat." and you're golden. Present it to everyone during the rapid watting.
+Programming languages can do the wirdest things; Find something that makes people say "wat." and you're golden. Present it to everyone during the rapid watting. (Type derps and suchlike are a good place to start.)
 
 Scoring: 100 for best team (Determined by judges), 50 for 2nd, -1 for 3rd.
 
