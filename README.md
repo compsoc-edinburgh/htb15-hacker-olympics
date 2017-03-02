@@ -126,7 +126,7 @@ Scoring: 200 points for perfectly tuned. 10 points less for every 10 Hz away.
 WAT.
 ----
 
-Programming languages can do the wirdest things; Find something that makes people say "wat." and you're golden. Present it to everyone during the rapid watting. (Type derps and suchlike are a good place to start.)
+Programming languages can do the weirdest things; Find something that makes people say "wat." and you're golden. Present it to everyone during the rapid watting. (Type derps and suchlike are a good place to start.)
 
 Scoring: 100 for best team (Determined by judges), 50 for 2nd, -1 for 3rd.
 
